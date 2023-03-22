@@ -1,0 +1,33 @@
+header.py-5 {
+    margin-top: -3rem;
+    margin-bottom: 3rem;
+    background-color: #C7DC7C;
+    
+}
+/* 
+section.py-5 {
+    margin-bottom: -3rem;
+} */
+
+
+.carousel-inner {
+    position: relative;
+    width: 100%;
+     text-align: center;
+    padding-left: 800px;
+    padding-right: 800px;
+    
+    
+    
+    overflow: hidden;
+}
+
+
+
+.carousel-control-prev {
+    left: 400px;
+}
+
+.carousel-control-next {
+    right: 400px;
+}

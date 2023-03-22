@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+
+.message {
+    color: red;
+}
+
+.success {
+    color: green;
+}
+
+.container1 {
+    text-align: left;
+
+
+    /* width: 500px; */
+
+    margin: 0 auto;
+}
+
+.joincontainer {
+    width: 500px;
+
+    margin: auto;
+}
+
+.form-control {
+    width: 100%;
+}
+
+.joinlogo {
+    margin-bottom: 50px;
+}
+
+.joinlabel {
+    margin-bottom: 0;
+}
